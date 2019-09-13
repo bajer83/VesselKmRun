@@ -71,13 +71,13 @@
           </size>
          </property>
          <property name="minimum">
-          <number>1500</number>
+          <number>2000</number>
          </property>
          <property name="maximum">
           <number>65000</number>
          </property>
          <property name="value">
-          <number>1500</number>
+          <number>3003</number>
          </property>
         </widget>
        </item>
@@ -88,7 +88,7 @@
        <item>
         <widget class="QPushButton" name="start_server_btn">
          <property name="text">
-          <string>Start server</string>
+          <string>Connect to UDP</string>
          </property>
         </widget>
        </item>
